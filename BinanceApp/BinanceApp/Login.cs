@@ -15,6 +15,7 @@ namespace BinanceApp
         public BinanceHome()
         {
             InitializeComponent();
+            this.WindowState = FormWindowState.Normal;
 
         }
 
@@ -39,6 +40,11 @@ namespace BinanceApp
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UserBoxInput_TextChanged(object sender, EventArgs e)
         {
 
         }

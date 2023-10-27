@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("BinanceApp")]
+[assembly: AssemblyTitle("Binance")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BinanceApp")]
+[assembly: AssemblyProduct("Binance")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("8fd548b1-0c86-423f-ba68-548119b052d6")]
+[assembly: Guid("bafc357f-d9db-4428-a7e0-248e159cdbeb")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BinanceApp.Properties
+namespace Binance.Properties
 {
 
 

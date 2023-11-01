@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceDAL\\BinanceDAL.csproj": {}
+    "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceMODEL\\BinanceMODEL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceDAL\\BinanceDAL.csproj": {
+    "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceMODEL\\BinanceMODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceDAL\\BinanceDAL.csproj",
-        "projectName": "BinanceDAL",
-        "projectPath": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceDAL\\BinanceDAL.csproj",
+        "projectUniqueName": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceMODEL\\BinanceMODEL.csproj",
+        "projectName": "BinanceMODEL",
+        "projectPath": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceMODEL\\BinanceMODEL.csproj",
         "packagesPath": "C:\\Users\\Awi-T300\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceDAL\\obj\\",
+        "outputPath": "C:\\Users\\Awi-T300\\Documents\\GitHub\\LP3-Binance\\BinanceApp\\BinanceMODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

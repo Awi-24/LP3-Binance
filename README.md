@@ -1,6 +1,6 @@
 # :money_with_wings:Binance Application
 
-This project is a personal finance management application developed in C# using Windows Forms. The application allows users to register expenses and income, calculate the updated balance, and filter by category. It was developed as an learning exercise for Programming Language III class.
+This project is a personal finance management application developed in C# using Windows Forms. The application allows users to register expenses and income, calculate the updated balance, and filter by category. It was developed as a learning exercise for Programming Language III class.
 
 ## Tech Used
 

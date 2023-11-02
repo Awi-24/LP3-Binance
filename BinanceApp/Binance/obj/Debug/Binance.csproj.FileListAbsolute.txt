@@ -9,3 +9,14 @@ C:\Users\Awi-T300\Documents\GitHub\LP3-Binance\BinanceApp\Binance\obj\Debug\Bina
 C:\Users\Awi-T300\Documents\GitHub\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.pdb
 C:\Users\Awi-T300\Documents\GitHub\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.CentralScreen.resources
 C:\Users\Awi-T300\Documents\GitHub\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.Login.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.exe.config
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.exe
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.pdb
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.CentralScreen.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.Login.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.Properties.Resources.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.exe
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.pdb

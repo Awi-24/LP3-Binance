@@ -3,9 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binance", "Binance\Binance.csproj", "{BAFC357F-D9DB-4428-A7E0-248E159CDBEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinanceDAL", "BinanceDAL\BinanceDAL.csproj", "{0E411C43-D29E-4B8A-82A7-77CAA37B9953}"
+	ProjectSection(ProjectDependencies) = postProject
+		{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357} = {89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceDAL", "BinanceDAL\BinanceDAL.csproj", "{0E411C43-D29E-4B8A-82A7-77CAA37B9953}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceMODEL", "BinanceMODEL\BinanceMODEL.csproj", "{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceBLL", "BinanceBLL\BinanceBLL.csproj", "{AEBF1510-73F6-4653-B961-7E70C2819487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceAPPv2", "BinanceAPPv2\BinanceAPPv2.csproj", "{EED0BCC4-3ECD-423D-89A4-2B7B8B25FD5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +20,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BAFC357F-D9DB-4428-A7E0-248E159CDBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BAFC357F-D9DB-4428-A7E0-248E159CDBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BAFC357F-D9DB-4428-A7E0-248E159CDBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BAFC357F-D9DB-4428-A7E0-248E159CDBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E411C43-D29E-4B8A-82A7-77CAA37B9953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E411C43-D29E-4B8A-82A7-77CAA37B9953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E411C43-D29E-4B8A-82A7-77CAA37B9953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E411C43-D29E-4B8A-82A7-77CAA37B9953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AEF14A-C6BD-4292-AB0A-B47B5C1A0357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBF1510-73F6-4653-B961-7E70C2819487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBF1510-73F6-4653-B961-7E70C2819487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBF1510-73F6-4653-B961-7E70C2819487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBF1510-73F6-4653-B961-7E70C2819487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED0BCC4-3ECD-423D-89A4-2B7B8B25FD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED0BCC4-3ECD-423D-89A4-2B7B8B25FD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED0BCC4-3ECD-423D-89A4-2B7B8B25FD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED0BCC4-3ECD-423D-89A4-2B7B8B25FD5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.pdb
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\BinanceAPP.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.CentralScreen.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.Login.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.Properties.Resources.resources
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\BinanceAPP.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\BinanceAPP.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.pdb
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.dll.config
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\bin\Debug\Binance.dll
+C:\Users\Rafael\Documents\Academicos\Senai\2023.2\LP3\Av.2\LP3-Binance\BinanceApp\Binance\obj\Debug\Binance.dll
